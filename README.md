@@ -1,6 +1,6 @@
 # Hola, soy Marcela 👋
 
-Desarrolladora **fullstack y DevOps** con foco en **seguridad desde el diseño**. Construyo aplicaciones que protegen los datos de las personas desde la primera línea de código, no como un parche al final.
+Desarrolladora **fullstack y DevOps** con foco en **seguridad desde el diseño**. Desarrollo **aplicaciones web y de escritorio** que protegen los datos de las personas desde la primera línea de código, no como un parche al final.
 
 - 🔐 Me especializo en desarrollo seguro: autenticación robusta, control de acceso, auditoría y protección de datos personales (Ley 21.719).
 - 🎓 Estudiante de **Técnico en Programación y Análisis de Sistemas** en AIEP.
@@ -14,7 +14,7 @@ Desarrolladora **fullstack y DevOps** con foco en **seguridad desde el diseño**
 
 | Servicio | Detalle |
 | :--- | :--- |
-| **Desarrollo de aplicaciones** | Web y escritorio, con arquitectura en capas, pruebas automáticas y buenas prácticas de seguridad |
+| **Desarrollo web y de escritorio** | Sitios y aplicaciones web (React, Django, Flask, .NET) y aplicaciones de escritorio (C# .NET), con arquitectura en capas, pruebas automáticas y buenas prácticas de seguridad |
 | **Ciberseguridad para pymes** | Diagnóstico técnico, medidas de seguridad, respaldos, control de accesos y capacitación del equipo |
 | **DevOps** | Integración continua, contenedores y automatización de despliegues |
 
